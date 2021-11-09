@@ -1,0 +1,44 @@
+{
+    "products":[
+        {
+            "id": "Product001",
+            "name": "IPhone 12 Pro",
+            "desc": "Apple IPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+        },
+        {
+            "id": "Product002",
+            "name": "IPhone 12 Pro",
+            "desc": "Apple IPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+        },
+        {
+            "id": "Product003",
+            "name": "IPhone 12 Pro",
+            "desc": "Apple IPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+        },
+        {
+            "id": "Product004",
+            "name": "IPhone 12 Pro",
+            "desc": "Apple IPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+        },
+        {
+            "id": "Product005",
+            "name": "IPhone 12 Pro",
+            "desc": "Apple IPhone 12th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+        }
+    ]
+}
