@@ -10,19 +10,19 @@
         },
         {
             "id": 2,
-            "name": "IPhone 12 Pro",
-            "desc": "Apple IPhone 12th Generation",
-            "price": 999,
+            "name": "Asus Zenfone Max Pro M1",
+            "desc": "Asus Zenfone Max Pro M1 with 6GB Ram and 128GB Storage",
+            "price": 699,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+            "image": "https://static.toiimg.com/thumb/msid-68231878,width-1200,height-900,resizemode-4/.jpg"
         },
         {
             "id": 3,
-            "name": "IPhone 12 Pro",
-            "desc": "Apple IPhone 12th Generation",
-            "price": 999,
+            "name": "MacBook Air M1",
+            "desc": "13.3 inch/33.78 cm, Apple M1 Chip with 8-core CPU and 7-core GPU, 8GB RAM, 256GB SSD, Space Grey",
+            "price": 1099,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+            "image": "https://techcrunch.com/wp-content/uploads/2020/11/2020-11-16-074520097.jpg?w=730&crop=1"
         },
         {
             "id": 4,
@@ -34,19 +34,19 @@
         },
         {
             "id": 5,
-            "name": "IPhone 12 Pro",
-            "desc": "Apple IPhone 12th Generation",
-            "price": 999,
+            "name": "Asus Zenfone Max Pro M1",
+            "desc": "Asus Zenfone Max Pro M1 with 6GB Ram and 128GB Storage",
+            "price": 699,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+            "image": "https://static.toiimg.com/thumb/msid-68231878,width-1200,height-900,resizemode-4/.jpg"
         },
         {
             "id": 6,
-            "name": "IPhone 12 Pro",
-            "desc": "Apple IPhone 12th Generation",
-            "price": 999,
+            "name": "MacBook Air M1",
+            "desc": "13.3 inch/33.78 cm, Apple M1 Chip with 8-core CPU and 7-core GPU, 8GB RAM, 256GB SSD, Space Grey",
+            "price": 1099,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+            "image": "https://techcrunch.com/wp-content/uploads/2020/11/2020-11-16-074520097.jpg?w=730&crop=1"
         },
         {
             "id": 7,
@@ -58,11 +58,11 @@
         },
         {
             "id": 8,
-            "name": "IPhone 12 Pro",
-            "desc": "Apple IPhone 12th Generation",
-            "price": 999,
+            "name": "Asus Zenfone Max Pro M1",
+            "desc": "Asus Zenfone Max Pro M1 with 6GB Ram and 128GB Storage",
+            "price": 699,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/G/31/img20/Wireless/Apple/iPhone12/AMZ_FamiyStripe_iPhone_12mini._CB419233187_.png"
+            "image": "https://static.toiimg.com/thumb/msid-68231878,width-1200,height-900,resizemode-4/.jpg"
         }
     ]
 }
