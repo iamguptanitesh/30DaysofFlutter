@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Asus Zenfone Max Pro M1",
+            "name": "Asus Zenfone Max Pro",
             "desc": " 6GB Ram and 128GB Storage",
             "price": 699,
             "color": "#33505a",
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "MacBook Air M1",
-            "desc": "8-core CPU and 7-core GPU, 8GB RAM, 256GB SSD",
+            "desc": "8-core CPU, 7-core GPU, 8GB RAM, 256GB SSD",
             "price": 1099,
             "color": "#33505a",
             "image": "https://m.media-amazon.com/images/I/71Ae0NSObSL._SL1500_.jpg"
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "name": "Asus Zenfone Max Pro M1",
+            "name": "Asus Zenfone Max Pro",
             "desc": " 6GB Ram and 128GB Storage",
             "price": 699,
             "color": "#33505a",
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "MacBook Air M1",
-            "desc": "8-core CPU and 7-core GPU, 8GB RAM, 256GB SSD",
+            "desc": "8-core CPU, 7-core GPU, 8GB RAM, 256GB SSD",
             "price": 1099,
             "color": "#33505a",
             "image": "https://m.media-amazon.com/images/I/71Ae0NSObSL._SL1500_.jpg"
@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "name": "Asus Zenfone Max Pro M1",
+            "name": "Asus Zenfone Max Pro",
             "desc": " 6GB Ram and 128GB Storage",
             "price": 699,
             "color": "#33505a",
